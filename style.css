@@ -28,7 +28,9 @@ html, body {
  padding-right:100px;
 } 
 
-img { 
+.img { 
+ margin: auto;
+}
   
 .faustina-template {
   font-family: "Faustina", serif;

@@ -31,6 +31,13 @@ html, body {
   font-style: normal;
 }
 
+.photo-padding {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
 .paragraph-space {
   margin-right: 45px;
   margin-left: 45px;

@@ -32,9 +32,8 @@ html, body {
 }
 
 .photo-padding {
-  width:100%
-    max-width: 400px
-  height: auto;
+   margin-right: 50px;
+  margin-left: 50px;
 }
 
 .paragraph-space {

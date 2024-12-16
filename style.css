@@ -23,7 +23,11 @@ html, body {
 }
 
 /*********************************************************************/
+.page-padding {
+ padding-left: 50px
+} 
 
+  
 .faustina-template {
   font-family: "Faustina", serif;
   font-optical-sizing: auto;
